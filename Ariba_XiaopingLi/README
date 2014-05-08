@@ -1,0 +1,12 @@
+To start the application:
+
+
+1.  cd into src folder;
+2.  javac xiaoping/Node.java xiaoping/MostDistantNode.java
+3.  java xiaoping/MostDistantNode
+
+
+
+To remove class file, just run "rm xiaoping/*.class"
+
+Test file is in the test folder.

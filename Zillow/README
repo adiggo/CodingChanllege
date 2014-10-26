@@ -1,0 +1,16 @@
+These two problem is solved by using Java language, and the build tool is using Maven.
+Make sure you have installed Maven and JVM in your laptop to run my codes. To install maven in Mac,
+simply type : brew install maven (make sure you have installed homebrew). For other platform 
+to install maven, go to http://maven.apache.org/download.cgi for more information.
+
+-----------------------------------------------------------------------------------------------
+
+To run the test, run:
+cd Zillow
+mvn test
+
+----------------------------------------------------------------------------------------------
+
+Then after a little time, the results shows. 
+I have also included a Solution.pdf file which explains the algorithm to solve these two problem. Also give some explanation to the test case.
+
